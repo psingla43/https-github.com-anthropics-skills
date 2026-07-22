@@ -11,9 +11,17 @@ any host (or open directly in a browser).
 | `index.html` | Homepage — firm overview, practice areas, approach, **lawyer bio**, consultation |
 | `amicable-combined.html` | Uncontested / amicable divorce page |
 | `separation-agreement.html` | Separation agreements page |
-| `styles.css` | Shared design system used by all three pages |
+| `contact.html` | Contact page — office details + consultation form |
+| `privacy.html` | Privacy Policy (template — complete before publishing) |
+| `accessibility.html` | Accessibility statement (template) |
+| `terms.html` | Terms of Use (template) |
+| `styles.css` | Shared design system used by every page |
 
-All pages share one header, footer, and stylesheet, and link to each other.
+All pages share one header, footer, and stylesheet, and link to each other. The
+three legal pages are drafted as **plain-language templates**: they carry visible
+"complete before publishing" notices and mark firm-specific items in
+`[brackets]`. Have the responsible licensee review them and verify the current
+privacy and accessibility standards before they go live.
 
 ## Design intent
 
